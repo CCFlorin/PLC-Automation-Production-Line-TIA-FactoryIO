@@ -12,7 +12,7 @@ The project simulates a small production line. Two stations produce a **Lid** an
 - `FB7` – Assembly Actuators
 - `FB5` – Palletizer
 - `FB6` – Warehouse
-- `FB8` – Product Counter
+- `FB8` – Product tracking
 - `FC1` – Vision Sensor
 - `FC3` – HMI Status
 - `FB1` – Reset
